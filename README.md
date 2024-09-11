@@ -5,8 +5,7 @@
 - **objective:** 
 
     **1.** Create a customer performance report.
-
-
+  
     **2.** Compare market performance against sales targets
 
 - **Purpose of sales analytics:**
@@ -29,7 +28,7 @@
 
   **1.** Create Profit and Loss (P&L) reports segmented by Fiscal Year and Month.
 
-    **2.**Generate P&L reports segmented by Markets.
+    **2.** Generate P&L reports segmented by Markets.
 
 - **Purpose of sales analytics:**
 
